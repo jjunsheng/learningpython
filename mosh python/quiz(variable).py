@@ -3,4 +3,4 @@
 
 ful_name = 'John Smith'
 age = 20
-existing patient = False
+existing_patient = False

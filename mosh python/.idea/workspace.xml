@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guessing game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/car game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -88,6 +97,7 @@
         <option value="$PROJECT_DIR$/project(weight converter).py" />
         <option value="$PROJECT_DIR$/while loops.py" />
         <option value="$PROJECT_DIR$/guessing game.py" />
+        <option value="$PROJECT_DIR$/car game.py" />
       </list>
     </option>
   </component>
@@ -132,8 +142,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guessing game">
-    <configuration name="comparison operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.car game">
+    <configuration name="car game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mosh python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.car game" />
         <item itemvalue="Python.guessing game" />
         <item itemvalue="Python.while loops" />
         <item itemvalue="Python.project(weight converter)" />
         <item itemvalue="Python.quiz(comparison operators)" />
-        <item itemvalue="Python.comparison operators" />
       </list>
     </recent_temporary>
   </component>
@@ -454,6 +464,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
